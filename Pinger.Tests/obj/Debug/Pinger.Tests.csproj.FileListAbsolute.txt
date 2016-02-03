@@ -1,0 +1,14 @@
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\bin\Debug\Pinger.Tests.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\bin\Debug\Pinger.Tests.pdb
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\bin\Debug\Microsoft.Pex.Framework.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\bin\Debug\Pinger.exe
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\bin\Debug\System.Windows.Forms.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\bin\Debug\Microsoft.ExtendedReflection.Reasoning.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\bin\Debug\Microsoft.ExtendedReflection.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\bin\Debug\Microsoft.Pex.Framework.xml
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\obj\Debug\Pinger.Tests.dll
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\obj\Debug\Pinger.Tests.pdb
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\bin\Debug\Pinger.pdb
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger.Tests\obj\Debug\Pinger.Tests.csprojResolveAssemblyReference.cache

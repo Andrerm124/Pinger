@@ -1,0 +1,9 @@
+c:\users\andre\documents\visual studio 2015\Projects\Pinger\Pinger\bin\Debug\Pinger.exe.config
+c:\users\andre\documents\visual studio 2015\Projects\Pinger\Pinger\bin\Debug\Pinger.exe
+c:\users\andre\documents\visual studio 2015\Projects\Pinger\Pinger\bin\Debug\Pinger.pdb
+c:\users\andre\documents\visual studio 2015\Projects\Pinger\Pinger\obj\Debug\Pinger.Form1.resources
+c:\users\andre\documents\visual studio 2015\Projects\Pinger\Pinger\obj\Debug\Pinger.Properties.Resources.resources
+c:\users\andre\documents\visual studio 2015\Projects\Pinger\Pinger\obj\Debug\Pinger.csproj.GenerateResource.Cache
+c:\users\andre\documents\visual studio 2015\Projects\Pinger\Pinger\obj\Debug\Pinger.exe
+c:\users\andre\documents\visual studio 2015\Projects\Pinger\Pinger\obj\Debug\Pinger.pdb
+C:\Users\Andre\Documents\Visual Studio 2015\Projects\Pinger\Pinger\obj\Debug\Pinger.SettingsForm.resources
